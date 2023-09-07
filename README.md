@@ -9,4 +9,7 @@ I like exploring new things by putting myself head first into it. It's sometimes
 If for some reason you would like to contact me, my email is spacenerden@gmail.com.
 
 ### GPG keys
+My public keys are at [spacenerden.pub](spacenerden.pub)
 
+### Server Specific Files
+My initial server config scripts, revoked SSH keys, etc.
